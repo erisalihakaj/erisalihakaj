@@ -1,7 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-# 💫 About Me:
+## 💫 About Me:
 🎓 I am a student at Dublin City University,<br>🎯 Exploring the world of programming and development<br>📚 Open to any advice or resources to improve my skills<br>🤝 Looking to connect with fellow learners and developers
 
 ## 🌐 Socials:
@@ -20,4 +19,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=erisalihakaj&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
