@@ -4,7 +4,6 @@
 # 💫 About Me:
 🎓 I am a student at Dublin City University,<br>🎯 Exploring the world of programming and development<br>📚 Open to any advice or resources to improve my skills<br>🤝 Looking to connect with fellow learners and developers
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eris-alihakaj/) 
 
